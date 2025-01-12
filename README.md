@@ -43,7 +43,11 @@
 
 ![image](https://github.com/user-attachments/assets/dc6bbdb9-3014-422f-87de-a807e0c628a4)
 
+**Произведен autodetect конфигурации**
+
 ![image](https://github.com/user-attachments/assets/639dc87c-6e9f-48a0-af92-509db176e5b5)
+
+
 
 
 
