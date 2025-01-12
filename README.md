@@ -13,4 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/d8023288-12af-4d76-a8c6-2ca77e34dd59)
 
+**Выполнена первоначальная настройка**
+
+![image](https://github.com/user-attachments/assets/916e2358-0789-4f14-bb8d-920998efe4c9)
 
