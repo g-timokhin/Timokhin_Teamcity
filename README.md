@@ -86,6 +86,11 @@
 
 ![image](https://github.com/user-attachments/assets/55723071-9fe2-474b-91f7-ff07d4568d1f)
 
+**Сборка самостоятельно запустилась, тесты прошли успешно**
+
+![image](https://github.com/user-attachments/assets/7d19b5e4-f58f-42ce-bd31-81ba76a7a4e1)
+
+
 
 
 
