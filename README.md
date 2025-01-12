@@ -78,6 +78,10 @@
 
 ![image](https://github.com/user-attachments/assets/394ecde6-3dbe-4865-9168-49936b541f34)
 
+**Для класса Welcomer добавлен новый метод**
+
+![image](https://github.com/user-attachments/assets/e6b59060-5399-4bb0-832c-4df7f78e3561)
+
 
 
 
