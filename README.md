@@ -33,7 +33,12 @@
 
 ![image](https://github.com/user-attachments/assets/9c0703a1-ab09-488a-aee7-0f54ab379f9f)
 
-**Выполнен playbook**
+**Выполнен playbook для nexus**
+
+![image](https://github.com/user-attachments/assets/f7bfaa05-b872-49e8-b307-7c22dd2d5e33)
+
+
+
 
 
 
