@@ -23,4 +23,11 @@
 
 ![image](https://github.com/user-attachments/assets/578ff1a1-2093-464f-9e7a-f1662bd24d81)
 
+**Авторизация агента**
+
+![image](https://github.com/user-attachments/assets/a2d226c4-f6b1-41ee-a195-f66b48c1d4d8)
+
+![image](https://github.com/user-attachments/assets/b0fe237c-81a6-4f27-8d12-61b979b85ae3)
+
+
 
