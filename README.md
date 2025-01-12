@@ -74,6 +74,13 @@
 
 ![image](https://github.com/user-attachments/assets/a1793513-b9b6-4dfe-8b53-926c0793b3f4)
 
+**В репозитории создана новая ветка**
+
+![image](https://github.com/user-attachments/assets/394ecde6-3dbe-4865-9168-49936b541f34)
+
+
+
+
 
 
 
