@@ -66,6 +66,11 @@
 
 ![image](https://github.com/user-attachments/assets/b84eda83-1f88-422c-9fba-55e0654c6f76)
 
+**Сборка прошла успешно, артефакт появился в Nexus**
+
+![image](https://github.com/user-attachments/assets/7fbc8a92-c061-4fb2-a7ef-a0a3671af31c)
+
+
 
 
 
