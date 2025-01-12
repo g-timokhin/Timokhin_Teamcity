@@ -29,5 +29,12 @@
 
 ![image](https://github.com/user-attachments/assets/b0fe237c-81a6-4f27-8d12-61b979b85ae3)
 
+**Создана ВМ для nexus**
+
+![image](https://github.com/user-attachments/assets/9c0703a1-ab09-488a-aee7-0f54ab379f9f)
+
+**Выполнен playbook**
+
+
 
 
