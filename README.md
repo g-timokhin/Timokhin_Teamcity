@@ -94,6 +94,10 @@
 
 ![image](https://github.com/user-attachments/assets/4645ad31-a5c2-403d-af76-35753d603d06)
 
+**Сборка мастера после слияния падает на этапе публикации артефакта**
+
+![image](https://github.com/user-attachments/assets/999546fd-6149-4e6a-bb36-f5174b3ce6ec)
+
 
 
 
