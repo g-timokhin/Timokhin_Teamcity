@@ -98,6 +98,10 @@
 
 ![image](https://github.com/user-attachments/assets/999546fd-6149-4e6a-bb36-f5174b3ce6ec)
 
+**После изменения target на clean package публикация артефактов прошла успешно**
+
+![image](https://github.com/user-attachments/assets/278f4f88-77ba-4147-ac66-41600bdd270e)
+
 
 
 
