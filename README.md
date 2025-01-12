@@ -17,3 +17,10 @@
 
 ![image](https://github.com/user-attachments/assets/916e2358-0789-4f14-bb8d-920998efe4c9)
 
+**Создан инстанс на освнове образа jetbrains/teamcity-agent**
+
+![image](https://github.com/user-attachments/assets/7f485460-f3ee-4b19-a106-a4f57f83ac95)
+
+![image](https://github.com/user-attachments/assets/578ff1a1-2093-464f-9e7a-f1662bd24d81)
+
+
