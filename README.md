@@ -51,6 +51,21 @@
 
 ![image](https://github.com/user-attachments/assets/aeaaafbf-886c-406e-8263-385c87492b77)
 
+**Изменены условия сборки**
+
+![image](https://github.com/user-attachments/assets/cb386cb6-a97b-4d85-b330-805a15051cdf)
+
+**Добавлен файл конфигурации**
+
+![image](https://github.com/user-attachments/assets/41caaf00-54a2-4fc2-9936-550005a4c965)
+
+![image](https://github.com/user-attachments/assets/095dde0c-9028-4ad0-8ac3-4e26b9b01312)
+
+
+
+
+
+
 
 
 
