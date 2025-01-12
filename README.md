@@ -70,6 +70,12 @@
 
 ![image](https://github.com/user-attachments/assets/7fbc8a92-c061-4fb2-a7ef-a0a3671af31c)
 
+**Файл с конфигурацией добавлен в репозиторий**
+
+![image](https://github.com/user-attachments/assets/a1793513-b9b6-4dfe-8b53-926c0793b3f4)
+
+
+
 
 
 
