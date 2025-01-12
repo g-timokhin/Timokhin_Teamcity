@@ -82,6 +82,11 @@
 
 ![image](https://github.com/user-attachments/assets/e6b59060-5399-4bb0-832c-4df7f78e3561)
 
+**Добавлен тест для нового метода**
+
+![image](https://github.com/user-attachments/assets/55723071-9fe2-474b-91f7-ff07d4568d1f)
+
+
 
 
 
