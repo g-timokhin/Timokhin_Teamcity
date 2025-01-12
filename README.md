@@ -37,6 +37,9 @@
 
 ![image](https://github.com/user-attachments/assets/f7bfaa05-b872-49e8-b307-7c22dd2d5e33)
 
+![image](https://github.com/user-attachments/assets/8c870ee3-d200-4b23-a34a-335e0d060011)
+
+
 # Основная часть
 
 **Создан новый проект в TeamCity на основе fork**
