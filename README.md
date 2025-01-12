@@ -47,6 +47,13 @@
 
 ![image](https://github.com/user-attachments/assets/639dc87c-6e9f-48a0-af92-509db176e5b5)
 
+**Проведена первая сборка**
+
+![image](https://github.com/user-attachments/assets/aeaaafbf-886c-406e-8263-385c87492b77)
+
+
+
+
 
 
 
