@@ -90,6 +90,10 @@
 
 ![image](https://github.com/user-attachments/assets/7d19b5e4-f58f-42ce-bd31-81ba76a7a4e1)
 
+**Произведен merge новой ветки в master**
+
+![image](https://github.com/user-attachments/assets/4645ad31-a5c2-403d-af76-35753d603d06)
+
 
 
 
